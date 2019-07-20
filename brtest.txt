@@ -1,1 +1,7 @@
+<<<<<<< HEAD
  this is under b2
+=======
+this is under b1
+
+again modified in b1
+>>>>>>> b1
